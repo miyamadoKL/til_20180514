@@ -1,0 +1,10 @@
+C:\Users\KL\AAA_code\til_20180514\asyncawait\bin\Debug\netcoreapp2.0\asyncawait.deps.json
+C:\Users\KL\AAA_code\til_20180514\asyncawait\bin\Debug\netcoreapp2.0\asyncawait.runtimeconfig.json
+C:\Users\KL\AAA_code\til_20180514\asyncawait\bin\Debug\netcoreapp2.0\asyncawait.runtimeconfig.dev.json
+C:\Users\KL\AAA_code\til_20180514\asyncawait\bin\Debug\netcoreapp2.0\asyncawait.dll
+C:\Users\KL\AAA_code\til_20180514\asyncawait\bin\Debug\netcoreapp2.0\asyncawait.pdb
+C:\Users\KL\AAA_code\til_20180514\asyncawait\obj\Debug\netcoreapp2.0\asyncawait.csproj.CoreCompileInputs.cache
+C:\Users\KL\AAA_code\til_20180514\asyncawait\obj\Debug\netcoreapp2.0\asyncawait.AssemblyInfoInputs.cache
+C:\Users\KL\AAA_code\til_20180514\asyncawait\obj\Debug\netcoreapp2.0\asyncawait.AssemblyInfo.cs
+C:\Users\KL\AAA_code\til_20180514\asyncawait\obj\Debug\netcoreapp2.0\asyncawait.dll
+C:\Users\KL\AAA_code\til_20180514\asyncawait\obj\Debug\netcoreapp2.0\asyncawait.pdb
